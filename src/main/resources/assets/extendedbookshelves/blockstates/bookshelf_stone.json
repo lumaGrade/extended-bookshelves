@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "extendedbookshelves:block/bookshelf_stone" }
+  }
+}

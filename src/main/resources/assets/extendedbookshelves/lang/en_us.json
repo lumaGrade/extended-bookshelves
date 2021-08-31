@@ -1,0 +1,11 @@
+{
+  "block.extendedbookshelves.bookshelf_spruce" : "Spruce Bookshelf",
+  "block.extendedbookshelves.bookshelf_birch" : "Birch Bookshelf",
+  "block.extendedbookshelves.bookshelf_jungle" : "Jungle Bookshelf",
+  "block.extendedbookshelves.bookshelf_crimson" : "Crimson Bookshelf",
+  "block.extendedbookshelves.bookshelf_stone" : "Stone Bookshelf",
+  "block.extendedbookshelves.bookshelf_acacia" : "Acacia Bookshelf",
+  "block.extendedbookshelves.bookshelf_warped" : "Warped Bookshelf",
+  "block.extendedbookshelves.bookshelf_dark_oak" : "Dark Oak Bookshelf",
+  "block.minecraft.bookshelf": "Oak Bookshelf"
+}

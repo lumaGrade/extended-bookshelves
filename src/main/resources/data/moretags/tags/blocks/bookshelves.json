@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "extendedbookshelves:bookshelf_spruce",
+    "extendedbookshelves:bookshelf_birch",
+    "extendedbookshelves:bookshelf_jungle",
+    "extendedbookshelves:bookshelf_acacia",
+    "extendedbookshelves:bookshelf_dark_oak",
+    "extendedbookshelves:bookshelf_crimson",
+    "extendedbookshelves:bookshelf_stone",
+    "extendedbookshelves:bookshelf_warped",
+    "minecraft:bookshelf"
+  ]
+}
