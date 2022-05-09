@@ -4,7 +4,7 @@ import com.lumagrade.extendedbookshelves.ExtendedBookshelves;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.fabricmc.fabric.api.registry.FlammableBlockRegistry;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
-import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
+//import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
 import net.minecraft.sound.BlockSoundGroup;
@@ -15,49 +15,49 @@ public class BookshelfBlocks {
 
     public static final Block BOOKSHELF_SPRUCE = new Block(FabricBlockSettings
             .of(Material.WOOD)
-            .breakByTool(FabricToolTags.AXES, 0)
+            //.breakByTool(FabricToolTags.AXES, 0)
             .strength(1.5f, 7.5f)
             .sounds(BlockSoundGroup.WOOD));
 
     public static final Block BOOKSHELF_BIRCH = new Block(FabricBlockSettings
             .of(Material.WOOD)
-            .breakByTool(FabricToolTags.AXES, 0)
+            //.breakByTool(FabricToolTags.AXES, 0)
             .strength(1.5f, 7.5f)
             .sounds(BlockSoundGroup.WOOD));
 
     public static final Block BOOKSHELF_JUNGLE = new Block(FabricBlockSettings
             .of(Material.WOOD)
-            .breakByTool(FabricToolTags.AXES, 0)
+            //.breakByTool(FabricToolTags.AXES, 0)
             .strength(1.5f, 7.5f)
             .sounds(BlockSoundGroup.WOOD));
 
     public static final Block BOOKSHELF_DARK_OAK = new Block(FabricBlockSettings
             .of(Material.WOOD)
-            .breakByTool(FabricToolTags.AXES, 0)
+            //.breakByTool(FabricToolTags.AXES, 0)
             .strength(1.5f, 7.5f)
             .sounds(BlockSoundGroup.WOOD));
 
     public static final Block BOOKSHELF_CRIMSON = new Block(FabricBlockSettings
             .of(Material.WOOD)
-            .breakByTool(FabricToolTags.AXES, 0)
+            //.breakByTool(FabricToolTags.AXES, 0)
             .strength(1.5f, 7.5f)
             .sounds(BlockSoundGroup.WOOD));
 
     public static final Block BOOKSHELF_STONE = new Block(FabricBlockSettings
             .of(Material.STONE)
-            .breakByTool(FabricToolTags.PICKAXES, 0)
+            //.breakByTool(FabricToolTags.PICKAXES, 0)
             .strength(1.5f, 30f)
             .sounds(BlockSoundGroup.STONE));
 
     public static final Block BOOKSHELF_ACACIA = new Block(FabricBlockSettings
             .of(Material.WOOD)
-            .breakByTool(FabricToolTags.AXES, 0)
+            //.breakByTool(FabricToolTags.AXES, 0)
             .strength(1.5f, 7.5f)
             .sounds(BlockSoundGroup.WOOD));
 
     public static final Block BOOKSHELF_WARPED = new Block(FabricBlockSettings
             .of(Material.WOOD)
-            .breakByTool(FabricToolTags.AXES, 0)
+            //.breakByTool(FabricToolTags.AXES, 0)
             .strength(1.5f, 7.5f)
             .sounds(BlockSoundGroup.WOOD));
 
