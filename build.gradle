@@ -35,8 +35,6 @@ dependencies {
 	// PSA: Some older mods, compiled on Loom 0.2.1, might have outdated Maven POMs.
 	// You may need to force-disable transitiveness on them.
 
-	// modImplementation "net.gudenau.minecraft:MoreTags:${project.moreTagsVersion}"
-	// include(modImplementation "net.gudenau.minecraft:MoreTags:${project.moreTagsVersion}")
 	modImplementation include("net.gudenau.minecraft:MoreTags:${project.moreTagsVersion}"){
 		transitive = false
 	}
